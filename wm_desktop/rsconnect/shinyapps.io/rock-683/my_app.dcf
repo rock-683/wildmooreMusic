@@ -1,0 +1,10 @@
+name: my_app
+title: my_app
+username: rock-683
+account: rock-683
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10543873
+bundleId: 8196086
+url: https://rock-683.shinyapps.io/my_app/
+version: 1

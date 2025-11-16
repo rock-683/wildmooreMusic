@@ -1,0 +1,12 @@
+name: wm_desktop
+title: wm_desktop
+username: rock-683
+account: rock-683
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11104830
+bundleId: 11183801
+url: https://rock-683.shinyapps.io/wm_desktop/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
